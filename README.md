@@ -1,3 +1,4 @@
+```
 /tetris-clock
 │
 ├── index.html        # The main display
@@ -8,3 +9,4 @@
 │   ├── solver.js     # The "Sabotage & Rebuild" algorithm (the brains)
 │   └── maps.js       # 5x3 coordinate arrays for digits 0-9
 └── /assets           # Classic 8-bit sound effects (SFX)
+```
